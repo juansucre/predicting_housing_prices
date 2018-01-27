@@ -1,5 +1,5 @@
 ![](http://rentinginla.com/wp-content/uploads/2015/12/Buying.jpg)
-# [Project 2: Predicting House Prices with Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
+# [Predicting House Prices with Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 
 ## Goal
 
